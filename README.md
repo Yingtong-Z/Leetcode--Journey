@@ -1,5 +1,5 @@
 # Leetcode--Journey
-AVG(),SUM(),+ IF/ CASE WHEN
+**AVG(),SUM(),+ IF/ CASE WHEN**
 
 [1173. Immediate Food Delivery I](https://github.com/Yingtong-Z/Leetcode--Journey/blob/140450c477cdaf4930d179fb7484b01c96fa971a/SQL/1173.%20Immediate%20Food%20Delivery%20I.md)
 
@@ -7,5 +7,6 @@ AVG(),SUM(),+ IF/ CASE WHEN
 
 [1179. Reformat Department Table](https://github.com/Yingtong-Z/Leetcode--Journey/blob/140450c477cdaf4930d179fb7484b01c96fa971a/SQL/1179.%20Reformat%20Department%20Table.md)
 
-Window Functions
+**Window Functions**
+
 [1303. Find the Team Size](https://github.com/Yingtong-Z/Leetcode--Journey/blob/30335bc0de9737601033151fc74cd12f121b08fb/SQL/1303.%20Find%20the%20Team%20Size.md)
