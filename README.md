@@ -7,8 +7,12 @@
 
 [1179. Reformat Department Table](https://github.com/Yingtong-Z/Leetcode--Journey/blob/140450c477cdaf4930d179fb7484b01c96fa971a/SQL/1179.%20Reformat%20Department%20Table.md)
 
+* CASE WHEN
+
+[1322. Ads Performance](https://github.com/Yingtong-Z/Leetcode--Journey/blob/b2413b0eb8c5a78dc711fc5c83c09008246f8977/SQL/1322.%20Ads%20Performance.md)
+
 **Window Functions**
 
 [1303. Find the Team Size](https://github.com/Yingtong-Z/Leetcode--Journey/blob/30335bc0de9737601033151fc74cd12f121b08fb/SQL/1303.%20Find%20the%20Team%20Size.md)
 
-[1322. Ads Performance](https://github.com/Yingtong-Z/Leetcode--Journey/blob/b2413b0eb8c5a78dc711fc5c83c09008246f8977/SQL/1322.%20Ads%20Performance.md)
+
