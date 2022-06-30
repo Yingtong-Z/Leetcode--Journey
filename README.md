@@ -11,6 +11,9 @@
 
 [1322. Ads Performance](https://github.com/Yingtong-Z/Leetcode--Journey/blob/b2413b0eb8c5a78dc711fc5c83c09008246f8977/SQL/1322.%20Ads%20Performance.md)
 
+[608. Tree Node](https://github.com/Yingtong-Z/Leetcode--Journey/blob/b1ede905cffaab311f28b5aa6456c63ac584e162/SQL_Medium/608.%20Tree%20Node.md)
+
+
 -------
 
 **Window Functions**
