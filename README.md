@@ -25,3 +25,9 @@
 * rank window functions
 
 [178. Rank Scores](https://github.com/Yingtong-Z/Leetcode--Journey/blob/d6620d2e00aac63fe680d0e186d725a365a78711/SQL_Medium/178.%20Rank%20Scores.md)
+
+-------
+
+**Using remainder**
+
+[626. Exchange Seats](https://github.com/Yingtong-Z/Leetcode--Journey/blob/8bd8885c4b2be421325a8c31dd4fcc066569dc46/SQL_Medium/626.%20Exchange%20Seats.md)
