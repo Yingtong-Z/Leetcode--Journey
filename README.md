@@ -33,6 +33,6 @@
 [626. Exchange Seats](https://github.com/Yingtong-Z/Leetcode--Journey/blob/8bd8885c4b2be421325a8c31dd4fcc066569dc46/SQL_Medium/626.%20Exchange%20Seats.md)
 
 -----
-**With in latest 90 days
+**With in latest 90 days**
 
 [1107. New Users Daily Count](https://github.com/Yingtong-Z/Leetcode--Journey/blob/d7efecdb633fb41299a2310c46885df324937c4b/SQL_Medium/1107.%20New%20Users%20Daily%20Count.md)
